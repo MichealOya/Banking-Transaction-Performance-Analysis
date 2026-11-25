@@ -69,7 +69,7 @@ The dashboard recorded a transaction success rate of 93.89%. However, 466 transa
 ![Banking Transaction Performance Dashboard](page%201.png)
 
 ### Executive Insights
-![Executive Insights](page%202.png)
+![Executive Insights](Page%202.png)
 
 ## Conclusion
 
