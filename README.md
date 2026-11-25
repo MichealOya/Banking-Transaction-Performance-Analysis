@@ -76,3 +76,33 @@ The dashboard recorded a transaction success rate of 93.89%. However, 466 transa
 This project demonstrates how data analytics can support banking operations through performance monitoring, transaction analysis, and evidence-based decision-making.
 
 It also highlights the value of business intelligence tools in transforming transaction data into actionable management insights.
+
+## Key Performance Indicators (KPIs)
+
+| Metric | Result |
+|---|---:|
+| Total Transactions | 10,000 |
+| Total Transaction Value | ₦2,964,033,556 |
+| Average Transaction Value | ₦296,403 |
+| Unique Customers | 2,450 |
+| Successful Transactions | 9,389 |
+| Transaction Success Rate | 93.89% |
+| Failed Transactions | 466 |
+| Failed Transaction Rate | 4.66% |
+| Pending Transactions | 145 |
+
+## Tools and Technologies
+
+- Power BI Desktop – Data visualization and dashboard development.
+- Microsoft Excel – Data review and preparation.
+- DAX – KPI calculations and measures.
+
+## Project Files
+
+- Power BI dashboard (.pbix)
+- Dashboard report (PDF)
+- Dashboard screenshots (PNG)
+
+## Author
+
+Micheal Oyafunsho
